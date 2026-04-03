@@ -6,7 +6,7 @@ MAT LAB R2012.
 ## Algorithm:
 Step 1: Open MATLAB and Write the program.
 
-Step 2: Read the values of cut off frequency wc.
+Step 2: Read the values of cut off frequency wc. 
 
 Step 2: Read the values of Order of the filter N.
 
